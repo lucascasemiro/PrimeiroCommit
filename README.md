@@ -55,3 +55,5 @@ Comandos para gerenciar o controle de versão usando Git.
 git add .
 git commit -m "Mensagem do commit"
 git push origin main
+
+![gif](https://media.tenor.com/2HuG5tLOLqMAAAAi/rotating-cheese.gif)
