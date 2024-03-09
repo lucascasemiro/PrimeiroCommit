@@ -1,59 +1,25 @@
-__Bem-Vindo ao meu primeiro repositório!__
+# 🎇 __Este é meu primeiro repositório!__ 🎇
+## Aqui vão 6 comandos git essenciais para seu projeto
 
-__Instalação:__
 
-Comandos para instalar dependências ou o próprio projeto.
+## __git init__ 
 
-npm install
+##### Inicializa um novo repositório Git. Este comando é executado uma vez para criar um novo repositório no diretório atual.
 
-__Testes:__
+## __git add__ NOME_DO_ARQUIVO
 
-Comandos para executar testes automatizados.
+##### Adiciona alterações ou novos arquivos ao índice (staging area) para prepará-los para o commit.
 
-npm test
+## __git branch__ 
 
-__Compilação:__
+##### Para listar todas as branches presentes no seu repositório
 
-Comandos para compilar o código, se aplicável.
+## __git commit__ -m "mensagem aqui"
 
-npm run build
+##### Registra as alterações no repositório, criando um novo commit com uma mensagem descritiva.
 
-__Limpeza:__
+## __git push__ origin BRANCH
 
-Comandos para limpar artefatos de compilação ou arquivos temporários.
+##### Envia os commits locais para o repositório remoto.
 
-npm run clean
-
-__Atualização de Dependências:__
-
-Comandos para verificar e atualizar as dependências.
-
-npm update
-
-__Documentação:__
-
-Comandos para gerar documentação ou visualizar a documentação existente.
-
-npm run docs
-
-__Deploy:__
-
-Comandos para implantar o projeto em um ambiente de produção.
-
-npm run deploy
-
-__Ajuda:__
-
-Comandos para exibir ajuda ou instruções adicionais.
-
-npm help
-
-__Controle de Versão:__
-
-Comandos para gerenciar o controle de versão usando Git.
-
-git add .
-git commit -m "Mensagem do commit"
-git push origin main
-
-![gif](https://media.tenor.com/2HuG5tLOLqMAAAAi/rotating-cheese.gif)
+## __git pull__ origin BRANCH
